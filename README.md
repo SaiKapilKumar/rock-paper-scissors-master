@@ -28,11 +28,6 @@ Users should be able to:
 - Maintain the state of the score after refreshing the browser _(optional)_
 - **Bonus**: Play Rock, Paper, Scissors, Lizard, Spock against the computer _(optional)_
 
-### Screenshot
-
-![Screenshot 1](images/Screenshot-1.png)
-![Screenshot 2](images/Screenshot-2.png)
-
 ### Links
 
 - Solution URL: [Solution](https://github.com/SaiKapilKumar/rock-paper-scissors-master)
