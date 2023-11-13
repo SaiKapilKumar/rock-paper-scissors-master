@@ -30,9 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="images/Screenshot-1.png" alt="Screenshot 1" width="600">
-
-<img src="images/Screenshot-2.png" alt="Screenshot 2" width="600">
+![Screenshot 1](images/Screenshot-1.png)
+![Screenshot 2](images/Screenshot-2.png)
 
 ### Links
 
