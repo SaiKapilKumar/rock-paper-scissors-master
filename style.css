@@ -347,7 +347,7 @@ body{
 }
 
 .attribution { font-size: 11px; text-align: center; padding: 2rem; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(34, 45%, 44%); }
 
 /* Utilities */
 .preload * {
